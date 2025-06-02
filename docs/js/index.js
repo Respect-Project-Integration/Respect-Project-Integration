@@ -7,6 +7,14 @@ const root = ReactDOM.createRoot(domContainer);
 root.render(createElement(App, {}, null));
 
 function App() {
+	return createElement("div", {className: "app"}, createElement(Navigation), createElement(Content))
+}
+
+function Navigation() {
+	return null;
+}
+
+function Content() {
 	const [markdown, setMarkdown] = useState("");
 
 	useEffect(() => {
@@ -22,6 +30,6 @@ function App() {
 	}, []);
 
 	return (
-		createElement(Markdown, {}, markdown)
+		createElement("div", {className: "content"}, createElement(Markdown, {}, markdown))
 	);
 }

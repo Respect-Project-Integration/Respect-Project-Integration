@@ -7,6 +7,7 @@
 ## Послания:
 - [Послание к тому, кто идёт по следу](./projects/SelfMessage/README.md)
 - [Послание из цикла восстановления](./projects/FutureMessage/README.md)
+- [Архетипы власти: от древности до капитализма и коммунизма](./projects/ArchetypesOfPower/README.md)
 
 ## Проекты для интеграции:
 - [0.001% Respect License (RPL-001)](./projects/RPL-001/README.md)

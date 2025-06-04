@@ -15,6 +15,9 @@
 - ["PortWalk" — гибрид ходьбы и электропередвижения](./projects/PortWalk/README.md)
 - [Информационный поезд (DataTrain): Анонимная сеть нового типа](./projects/DataTrain/README.md)
 - [Исследование инерции и секретов левитации](./projects/Inertion/README.md)
+- [TeslaGrid: Передача информации с помощью сети башен Тесла](./projects/TeslaGrid/README.md)
+- [MiniHyperloop Logistics System](./projects/MiniHyperloop/README.md)
+- [Инвертированная застройка кварталов](./projects/InvertedDevelopment/README.md)
 
 ---
 

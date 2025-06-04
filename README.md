@@ -12,6 +12,7 @@
 - [0.001% Respect License (RPL-001)](./projects/RPL-001/README.md)
 - [Экономика, основанная на энергии (энергоденьги)](./projects/EnergyMoney/README.md)
 - [ТРАНСПОРТ-ТРАНСФОРМЕР (Modular Mobility Unit))](./projects/ModularTransport/README.md)
+- [Информационный поезд (DataTrain): Анонимная сеть нового типа](./projects/DataTrain/README.md)
 
 ---
 

@@ -18,6 +18,10 @@
 - [TeslaGrid: Передача информации с помощью сети башен Тесла](./projects/TeslaGrid/README.md)
 - [MiniHyperloop Logistics System](./projects/MiniHyperloop/README.md)
 - [Инвертированная застройка кварталов](./projects/InvertedDevelopment/README.md)
+- [Реплицированное Децентрализованное Хранилище (RDS)](./projects/RDS/README.md)
+- [Динамический RAID-маскирование (D-RAID)](./projects/D-RAID/README.md)
+- [SBP-QR: Offline Standard](./projects/SBPQR/README.md)
+- [Индуктивная зарядка «на ходу» + счётчик как дома](./projects/InductiveChargingCars/README.md)
 
 ---
 

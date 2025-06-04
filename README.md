@@ -2,6 +2,8 @@
 
 **Respect Project Integration: Манифест будущей цивилизации**
 
+https://respect-project-integration.github.io/Respect-Project-Integration/
+
 ---
 
 ## Послания:

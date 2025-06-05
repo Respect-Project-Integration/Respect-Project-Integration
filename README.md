@@ -29,6 +29,10 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Индуктивная зарядка «на ходу» + счётчик как дома](./projects/InductiveChargingCars/README.md)
 - ["Черепаха" как метафора гибкой боевой синергии](./projects/testudo/README.md)
 - [Что первично: дух или материя?](./projects/ai/README.md)
+- [Образование как путь взросления сознания](./projects/education/README.md)
+- [Принцип Равновесной Превосходности](./projects/respect-principle-balance/README.md)
+- [Медиаполе как генератор решений — программируемая эволюция через нарратив](./projects/media_trigger_kit/README.md)
+- [Геймдев как симулятор будущего — тестирование моделей через игровую среду](./projects/economy_test/README.md)
 
 ---
 

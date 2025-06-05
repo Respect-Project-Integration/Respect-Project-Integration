@@ -27,6 +27,8 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Динамический RAID-маскирование (D-RAID)](./projects/D-RAID/README.md)
 - [SBP-QR: Offline Standard](./projects/SBPQR/README.md)
 - [Индуктивная зарядка «на ходу» + счётчик как дома](./projects/InductiveChargingCars/README.md)
+- ["Черепаха" как метафора гибкой боевой синергии](./projects/testudo/README.md)
+- [Что первично: дух или материя?](./projects/ai/README.md)
 
 ---
 

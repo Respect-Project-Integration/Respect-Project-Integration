@@ -33,6 +33,9 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Принцип Равновесной Превосходности](./projects/respect-principle-balance/README.md)
 - [Медиаполе как генератор решений — программируемая эволюция через нарратив](./projects/media_trigger_kit/README.md)
 - [Геймдев как симулятор будущего — тестирование моделей через игровую среду](./projects/economy_test/README.md)
+- [Капитал 2.0: Новая экономическая модель, где бизнес живёт не за счёт продаж, а за счёт инвестиций](./projects/capital2/README.md)
+- [Гиперслух — городской аудио-инфопоток в неслышимом диапазоне](./projects/hyperhearing/README.md)
+- [Интегрированный ИИ-ассистент для Obsidian + Умный диктофон](./projects/obsidian-ai-assistant/README.md)
 
 ---
 

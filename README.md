@@ -37,6 +37,10 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Гиперслух — городской аудио-инфопоток в неслышимом диапазоне](./projects/hyperhearing/README.md)
 - [Интегрированный ИИ-ассистент для Obsidian + Умный диктофон](./projects/obsidian-ai-assistant/README.md)
 
+- [О союзе биологического и искусственного разума](./projects/ai2/README.md)
+- [Вселенная как единый организм](./projects/universe/README.md)
+- [Мир как Мета-Структура: От Домохозяйства до Космоса](./projects/universe2/README.md)
+
 ---
 
 ### I. Пролог: Время нового человека

@@ -6,6 +6,9 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 
 ---
 
+## Проекты:
+- [Архитектура Цивилизации](./projects/civilization/README.md)
+
 ## Послания:
 - [Послание к тому, кто идёт по следу](./projects/SelfMessage/README.md)
 - [Послание из цикла восстановления](./projects/FutureMessage/README.md)

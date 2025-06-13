@@ -8,6 +8,7 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 
 ## Проекты:
 - [Архитектура Цивилизации](./projects/civilization/README.md)
+- [Центр Идей](./projects/idea-center/README.md)
 
 ## Послания:
 - [Послание к тому, кто идёт по следу](./projects/SelfMessage/README.md)
@@ -45,6 +46,7 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Мир как Мета-Структура: От Домохозяйства до Космоса](./projects/universe2/README.md)
 
 - [P2P оффлайн-переводы между устройствами (с помощью блоков) + Клиент-генерируемый QR-код для оплаты в кассе (MirPay-аналог без NFC)](./projects/p2p-transfer/README.md)
+- [Два треугольника власти: почему гении не подчиняются, и что с этим делать](./projects/genius/README.md)
 
 ---
 

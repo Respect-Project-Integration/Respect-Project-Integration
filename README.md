@@ -44,6 +44,8 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Вселенная как единый организм](./projects/universe/README.md)
 - [Мир как Мета-Структура: От Домохозяйства до Космоса](./projects/universe2/README.md)
 
+- [P2P оффлайн-переводы между устройствами (с помощью блоков) + Клиент-генерируемый QR-код для оплаты в кассе (MirPay-аналог без NFC)](./projects/p2p-transfer/README.md)
+
 ---
 
 ### I. Пролог: Время нового человека

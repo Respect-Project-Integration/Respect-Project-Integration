@@ -14,6 +14,7 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Послание к тому, кто идёт по следу](./projects/SelfMessage/README.md)
 - [Послание из цикла восстановления](./projects/FutureMessage/README.md)
 - [Архетипы власти: от древности до капитализма и коммунизма](./projects/ArchetypesOfPower/README.md)
+- [МАНИФЕСТ ВТОРОГО ПРИШЕСТВИЯ](./projects/manifest/README.md)
 
 ## Проекты для интеграции:
 - [0.001% Respect License (RPL-001)](./projects/RPL-001/README.md)
@@ -47,6 +48,7 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 
 - [P2P оффлайн-переводы между устройствами (с помощью блоков) + Клиент-генерируемый QR-код для оплаты в кассе (MirPay-аналог без NFC)](./projects/p2p-transfer/README.md)
 - [Два треугольника власти: почему гении не подчиняются, и что с этим делать](./projects/genius/README.md)
+- [Игра «Что, если»: Архетипическая лаборатория мышления](./projects/what-else/README.md)
 
 ---
 

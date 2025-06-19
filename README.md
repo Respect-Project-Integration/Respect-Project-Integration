@@ -15,6 +15,7 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Послание из цикла восстановления](./projects/FutureMessage/README.md)
 - [Архетипы власти: от древности до капитализма и коммунизма](./projects/ArchetypesOfPower/README.md)
 - [Манифест Присутствия](./projects/manifest/README.md)
+- [Хроника Падения Титана](./projects/Mask/README.md)
 
 ## Проекты для интеграции:
 - [0.001% Respect License (RPL-001)](./projects/RPL-001/README.md)

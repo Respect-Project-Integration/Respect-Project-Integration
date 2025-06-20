@@ -16,6 +16,7 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Архетипы власти: от древности до капитализма и коммунизма](./projects/ArchetypesOfPower/README.md)
 - [Манифест Присутствия](./projects/manifest/README.md)
 - [Хроника Падения Титана](./projects/Mask/README.md)
+- [Лабиринт как форма зрелости](./projects/Labyrinth/README.md)
 
 ## Проекты для интеграции:
 - [0.001% Respect License (RPL-001)](./projects/RPL-001/README.md)

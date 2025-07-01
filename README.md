@@ -52,6 +52,8 @@ https://respect-project-integration.github.io/Respect-Project-Integration/
 - [Два треугольника власти: почему гении не подчиняются, и что с этим делать](./projects/genius/README.md)
 - [Игра «Что, если»: Архетипическая лаборатория мышления](./projects/what-else/README.md)
 
+- [InnerVoice: Персональное устройство внутренней речи и приватной телепатической связи](./projects/InnerVoice/README.md)
+
 ---
 
 ### I. Пролог: Время нового человека
